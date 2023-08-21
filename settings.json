@@ -1,0 +1,9 @@
+{
+    "C_Cpp.errorSquiggles": "enabledIfIncludesResolve",
+    "files.associations": {
+        "cmath": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp"
+    },
+    "cph.general.onceMaintainerMessage": false
+}
